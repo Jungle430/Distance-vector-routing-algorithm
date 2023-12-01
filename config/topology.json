@@ -1,0 +1,42 @@
+[
+    {
+        "src": "nodeA",
+        "dist": "nodeB",
+        "cost": 14
+    },
+    {
+        "src": "nodeA",
+        "dist": "nodeF",
+        "cost": 31
+    },
+    {
+        "src": "nodeB",
+        "dist": "nodeC",
+        "cost": 12
+    },
+    {
+        "src": "nodeB",
+        "dist": "nodeE",
+        "cost": 32
+    },
+    {
+        "src": "nodeC",
+        "dist": "nodeF",
+        "cost": 12
+    },
+    {
+        "src": "nodeC",
+        "dist": "nodeD",
+        "cost": 7
+    },
+    {
+        "src": "nodeD",
+        "dist": "nodeE",
+        "cost": 6
+    },
+    {
+        "src": "nodeE",
+        "dist": "nodeF",
+        "cost": 7
+    }
+]

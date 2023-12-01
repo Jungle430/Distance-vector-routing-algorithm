@@ -1,0 +1,26 @@
+[
+    {
+        "name": "nodeA",
+        "port": 8011
+    },
+    {
+        "name": "nodeB",
+        "port": 8012
+    },
+    {
+        "name": "nodeC",
+        "port": 8013
+    },
+    {
+        "name": "nodeD",
+        "port": 8014
+    },
+    {
+        "name": "nodeE",
+        "port": 8015
+    },
+    {
+        "name": "nodeF",
+        "port": 8016
+    }
+]
