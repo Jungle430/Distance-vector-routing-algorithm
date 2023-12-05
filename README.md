@@ -1,1 +1,1 @@
-- 距离矢量路由算法的GoLang模拟
+- Distance Vector Routing algorithm implement in GoLang
